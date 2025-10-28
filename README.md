@@ -27,11 +27,16 @@ This study employs a **corpus linguistics approach** with the following analytic
 
 ### Finding #1: Differential Prominence of "道"
 
-- **Tao Te Ching**: 76 occurrences in 5,281 tokens (≈1.44% of text)
-- **Analects of Confucius**: 89 occurrences in 15,931 tokens (≈0.56% of text)
+#### Tao Te Ching: 76 occurrences in 5,281 tokens (≈1.44% of text)
+#### The Analects of Confucius: 89 occurrences in 15,931 tokens (≈0.56% of text)
+<div align="center">
+  <img src="道德经_道_word_frequency.png" alt="Frequency of 道 in Tao Te Ching" width="45%">
+  <p><em>Frequency of 道 in Tao Te Ching</em></p>
+  <img src="论语_道_word_frequency.png" alt="Frequency of 道 in The Analects of Confucius" width="45%">
+  <p><em>Frequency of 道 in The Analects of Confucius</em></p>
+</div>
 
 **Conclusion**: "道" appears over 2.5 times more frequently relative to text length in the Tao Te Ching, indicating its central conceptual importance in Daoist thought.
-![]()
 
 ### Finding #2: Distinct Semantic Profiles
 
@@ -46,6 +51,14 @@ This study employs a **corpus linguistics approach** with the following analytic
 - **Nature**: Moral standard for human conduct and governance
 - **Role**: Often appears as the object of action or discussion
 - **Example**: "天下有道則見，無道則隱" (8.13) - Dao as condition determining action
+<div align="center">
+  <img src="道德经_道字词云.jpg" alt="The Frequent Clusters in Tao Te Ching" width="45%">
+  <p><em>The Frequent Clusters in Tao Te Ching</em></p>
+  <img src="论语_道字词云.jpg" alt="The Frequent Clusters in The Analects of Confucius" width="45%">
+  <p><em>The Frequent Clusters in The Analects of Confucius</em></p>
+</div>
+
+**Conclusion**: In the Tao Te Ching, “道” is a cosmological and generative force. Clusters like 大道, 道生, and 天道 portray it as the impersonal, creative source of the universe—a metaphysical reality to be described and understood. In The Analects, “道” is a socio-ethical and political path. Clusters like 有道/無道 and 道之 frame it as a tangible standard for human conduct and governance—a moral ideal that can be followed, possessed, lost, or applied.
 
 ## Conclusion
 
